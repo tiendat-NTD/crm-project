@@ -39,13 +39,16 @@
 
 ## HÌNH ẢNH DEMO
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tynab/CRM-Project/master/temp/pic/0.png"></img>
+![home](https://user-images.githubusercontent.com/28654848/188351188-8f520b26-8348-41fc-9c82-4cf0714e6759.png)
+</p>
+<p align="center">
+![login](https://user-images.githubusercontent.com/28654848/188351317-66ea98af-afbc-4fc5-8b8a-6e92bd1962ee.png)
 </p>
 
 ## VIDEO DEMO
 <div align="center">
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3W1kdSJdITo/0.jpg)](https://www.youtube.com/watch?v=skY2dxN2G4g)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/28654848/188351188-8f520b26-8348-41fc-9c82-4cf0714e6759.png)](https://www.youtube.com/watch?v=skY2dxN2G4g)
 
 </div>
 
