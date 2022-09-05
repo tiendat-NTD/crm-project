@@ -39,10 +39,13 @@
 
 ## HÌNH ẢNH DEMO
 <p align="center">
-![home](https://user-images.githubusercontent.com/28654848/188351188-8f520b26-8348-41fc-9c82-4cf0714e6759.png)
+    <img src="https://user-images.githubusercontent.com/28654848/188351317-66ea98af-afbc-4fc5-8b8a-6e92bd1962ee.png"></img>
 </p>
 <p align="center">
-![login](https://user-images.githubusercontent.com/28654848/188351317-66ea98af-afbc-4fc5-8b8a-6e92bd1962ee.png)
+    <img src="https://user-images.githubusercontent.com/28654848/188351188-8f520b26-8348-41fc-9c82-4cf0714e6759.png"></img>
+</p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/28654848/188352116-db72fab7-4697-40c2-b6e0-ef618cc567de.png"></img>
 </p>
 
 ## VIDEO DEMO
